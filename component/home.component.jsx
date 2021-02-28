@@ -7,7 +7,7 @@ import {
   FlatList,
 } from "react-native";
 
-import data from "../dummydata";
+import data from "../data/dummy.data";
 
 const Home = ({ navigation }) => {
   const [Hostals, setHostals] = useState(data);

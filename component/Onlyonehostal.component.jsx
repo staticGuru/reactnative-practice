@@ -9,7 +9,7 @@ import {
   FlatList,
   TouchableOpacity,
 } from "react-native";
-import SECTIONS from "./Sections";
+import SECTIONS from "../data/Sections.data";
 
 const Onlyonehostal = ({ navigation }) => {
   const ListItem = ({ item }) => {

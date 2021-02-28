@@ -4,8 +4,8 @@ import { createStackNavigator } from "@react-navigation/stack";
 
 import Home from "../component/home.component";
 
-import Onlyonehostal from "../Onlyonehostal";
-import Profile from "../Profile";
+import Onlyonehostal from "../component/Onlyonehostal.component";
+import Profile from "../component/Profile.component";
 
 const Stack = createStackNavigator();
 
