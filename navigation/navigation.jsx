@@ -13,7 +13,7 @@ const MyStack = () => {
   return (
     <NavigationContainer>
       <Stack.Navigator>
-        <Stack.Screen name="Home" component={Home} />
+        <Stack.Screen name="MIT HOSTALS" component={Home} />
         <Stack.Screen name="hostelPage" component={Onlyonehostal} />
         <Stack.Screen name="ProfilePage" component={Profile} />
       </Stack.Navigator>

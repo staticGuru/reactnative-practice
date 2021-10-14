@@ -58,24 +58,26 @@ const Onlyonehostal = ({ navigation }) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#121212",
+    backgroundColor: "#0ff",
   },
   sectionHeader: {
     fontWeight: "800",
     fontSize: 18,
-    color: "#f4f4f4",
+    color: "white",
     marginTop: 20,
     marginBottom: 5,
   },
   item: {
     margin: 10,
-    backgroundColor: "blue",
+    backgroundColor: "dodgerblue",
+    borderRadius:10,
   },
 
   itemText: {
     color: "white",
     marginTop: 5,
-    padding: 100,
+    padding: 50,
+    fontSize:18,
   },
 });
 

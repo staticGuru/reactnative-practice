@@ -29,15 +29,19 @@ const Home = ({ navigation }) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#fff",
+    backgroundColor: "#0ff",
     alignItems: "center",
     justifyContent: "center",
+
+    // borderRadius:100,
   },
   item: {
     marginTop: 24,
     padding: 100,
-    backgroundColor: "pink",
+    backgroundColor: "lightblue",
     fontSize: 24,
+    textAlign:'center',
+    borderRadius:100,
   },
 });
 

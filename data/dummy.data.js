@@ -1,39 +1,39 @@
 const data = [
   {
     id: "1",
-    name: "First Item",
+    name: "Birla",
   },
   {
     id: "2",
-    name: "Second Item",
+    name: "Amaravathi",
   },
   {
     id: "3",
-    name: "Third Item",
+    name: "Bhavani",
   },
   {
     id: "4",
-    name: "Fourth Item",
+    name: "Thamirabarani",
   },
   {
     id: "5",
-    name: "Third Item",
+    name: "Vaigai",
   },
   {
     id: "7",
-    name: "Third Item",
+    name: "Ponni",
   },
   {
     id: "8",
-    name: "Fourth Item",
+    name: "Marudham",
   },
   {
     id: "9",
-    name: "Third Item",
+    name: "Khuruzi",
   },
   {
     id: "10",
-    name: "Fourth Item",
+    name: "NRI hostals",
   },
 ];
 
